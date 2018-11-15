@@ -1,0 +1,24 @@
+{
+  "name": "lqphi",
+  "version": "5.5.5",
+  "description": "the deo nao",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/misa0911/famisi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/misa0911/famisi/issues"
+  },
+  "homepage": "https://github.com/misa0911/famisi#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "pug": "^2.0.3",
+    "sass": "^1.15.0"
+  }
+}
